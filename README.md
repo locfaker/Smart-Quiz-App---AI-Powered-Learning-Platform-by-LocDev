@@ -1,8 +1,8 @@
 # Smart Quiz App - AI-Powered Learning Platform
 
-[![CI/CD Pipeline](https://github.com/locfaker/DFS/workflows/CI-CD/badge.svg)](https://github.com/locfaker/DFS/actions)
-[![Code Coverage](https://codecov.io/gh/locfaker/DFS/branch/main/graph/badge.svg)](https://codecov.io/gh/locfaker/DFS)
-[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=DFS&metric=security_rating)](https://sonarcloud.io/dashboard?id=DFS)
+[![CI/CD Pipeline](https://github.com/locfaker/Smart-Quiz-App---AI-Powered-Learning-Platform-by-LocDev/workflows/CI-CD/badge.svg)](https://github.com/locfaker/Smart-Quiz-App---AI-Powered-Learning-Platform-by-LocDev/actions)
+[![Code Coverage](https://codecov.io/gh/locfaker/Smart-Quiz-App---AI-Powered-Learning-Platform-by-LocDev/branch/main/graph/badge.svg)](https://codecov.io/gh/locfaker/Smart-Quiz-App---AI-Powered-Learning-Platform-by-LocDev)
+[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=Smart-Quiz-App---AI-Powered-Learning-Platform-by-LocDev&metric=security_rating)](https://sonarcloud.io/dashboard?id=Smart-Quiz-App---AI-Powered-Learning-Platform-by-LocDev)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## 🎯 Tổng quan dự án
