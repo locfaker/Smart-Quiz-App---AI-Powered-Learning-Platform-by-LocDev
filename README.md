@@ -1,8 +1,8 @@
 # Smart Quiz App - AI-Powered Learning Platform
 
-[![CI/CD Pipeline](https://github.com/username/smart-quiz-app/workflows/CI-CD/badge.svg)](https://github.com/username/smart-quiz-app/actions)
-[![Code Coverage](https://codecov.io/gh/username/smart-quiz-app/branch/main/graph/badge.svg)](https://codecov.io/gh/username/smart-quiz-app)
-[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=smart-quiz-app&metric=security_rating)](https://sonarcloud.io/dashboard?id=smart-quiz-app)
+[![CI/CD Pipeline](https://github.com/locfaker/DFS/workflows/CI-CD/badge.svg)](https://github.com/locfaker/DFS/actions)
+[![Code Coverage](https://codecov.io/gh/locfaker/DFS/branch/main/graph/badge.svg)](https://codecov.io/gh/locfaker/DFS)
+[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=DFS&metric=security_rating)](https://sonarcloud.io/dashboard?id=DFS)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## 🎯 Tổng quan dự án
