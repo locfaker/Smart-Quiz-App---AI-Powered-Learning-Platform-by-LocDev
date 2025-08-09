@@ -329,17 +329,17 @@ Dự án này được phân phối dưới MIT License. Xem [LICENSE](LICENSE) 
 
 ## 👥 Team
 
-- **Lead Developer**: [Tên của bạn]
-- **Backend Developer**: [Tên của bạn]
-- **Mobile Developer**: [Tên của bạn]
-- **DevOps Engineer**: [Tên của bạn]
+- **Lead Developer**: lộc võ
+- **Backend Developer**: lộc võ
+- **Mobile Developer**: lộc võ
+- **DevOps Engineer**: lộc võ
 
 ## 📞 Support
 
-- **Email**: support@smartquiz.app
+- **Email**: locv2659@gmail.com
 - **Documentation**: https://docs.smartquiz.app
-- **Issues**: https://github.com/username/smart-quiz-app/issues
-- **Discussions**: https://github.com/username/smart-quiz-app/discussions
+- **Issues**: https://github.com/locfaker/DFS/issues
+- **Discussions**: https://github.com/locfaker/DFS/discussions
 
 ## 🎯 Roadmap
 
