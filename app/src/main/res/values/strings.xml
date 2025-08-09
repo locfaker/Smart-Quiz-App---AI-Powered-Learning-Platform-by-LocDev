@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Smart Quiz App</string>
+    <string name="welcome_title">Chào mừng đến với Smart Quiz</string>
+    <string name="welcome_subtitle">Ứng dụng giải bài tập thông minh với AI</string>
+    <string name="start_quiz">Bắt đầu làm bài</string>
+    <string name="select_subject">Chọn chủ đề</string>
+    <string name="math">Toán học</string>
+    <string name="physics">Vật lý</string>
+    <string name="chemistry">Hóa học</string>
+    <string name="biology">Sinh học</string>
+    <string name="literature">Văn học</string>
+    <string name="english">Tiếng Anh</string>
+    <string name="history">Lịch sử</string>
+    <string name="geography">Địa lý</string>
+    <string name="quiz_timer">Thời gian còn lại: %s</string>
+    <string name="question_number">Câu %d/%d</string>
+    <string name="next_question">Câu tiếp theo</string>
+    <string name="finish_quiz">Hoàn thành</string>
+    <string name="your_score">Điểm của bạn: %d/%d</string>
+    <string name="ai_feedback">Nhận xét từ AI</string>
+    <string name="suggestions">Gợi ý cải thiện</string>
+    <string name="retry_quiz">Làm lại</string>
+    <string name="back_to_home">Về trang chủ</string>
+    <string name="loading">Đang tải...</string>
+    <string name="error_network">Lỗi kết nối mạng</string>
+    <string name="error_api">Lỗi API</string>
+    <string name="generate_questions">Tạo câu hỏi mới</string>
+    <string name="difficulty_easy">Dễ</string>
+    <string name="difficulty_medium">Trung bình</string>
+    <string name="difficulty_hard">Khó</string>
+</resources>
